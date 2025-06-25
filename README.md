@@ -20,7 +20,7 @@
 Εκκίνηση Development
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/MichaelKolliniatis/API-for-Contacts
 cd Web-API-for-Contacts-2.0
 dotnet restore
 dotnet ef database update
